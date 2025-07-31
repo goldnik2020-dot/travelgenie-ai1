@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/travelgenie-ai1/', // Required for GitHub Pages
+  base: '/travelgenie-ai1/', // GitHub Pages subpath
 });
